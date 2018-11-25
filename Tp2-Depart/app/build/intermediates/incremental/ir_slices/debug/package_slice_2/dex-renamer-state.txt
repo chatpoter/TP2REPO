@@ -1,4 +1,0 @@
-#Tue Nov 20 15:00:11 PST 2018
-base.0=/home/user/Desktop/Tp2-Depart/TP2REPO/Tp2-Depart/app/build/intermediates/transforms/dexMerger/debug/2
-path.0=classes.dex
-renamed.0=classes.dex

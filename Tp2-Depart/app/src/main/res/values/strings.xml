@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Chiffres Romains</string>
-    <string name="hint_input">Entrer un chiffre ici</string>
-    <string name="error_empty_input">Please input a number</string>
-    <string name="error_wrong_input">The number must be between 1 and 4999</string>
-    <string name="button_hint">CHIFFRE ROMAINS</string>
-</resources>
